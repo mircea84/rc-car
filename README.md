@@ -22,5 +22,10 @@ Antenna length calculator:
 http://www.csgnetwork.com/antennagenericfreqlencalc.html
 
 ![Alt text](images/1111.jpeg)
+![Alt text](images/1.jpeg)
+Pins position in below picture have been changed. actually I changed the board design. Final implementation in pic above.
+![Alt text](images/20191209_183227.jpg)
 ![Alt text](images/IMG-20191207-WA0008.jpeg)
+![Alt text](images/IMG-20191207-WA0010.jpeg)
+
 
