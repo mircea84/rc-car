@@ -26,5 +26,7 @@ http://www.csgnetwork.com/antennagenericfreqlencalc.html
 ![Alt text](images/20191209_183227.jpg)
 ![Alt text](images/IMG-20191207-WA0008.jpeg)
 ![Alt text](images/IMG-20191207-WA0010.jpeg)
+![Alt text](images/IMG-20191207-WA0017.jpeg)
+![Alt text](images/2.jpg)
 
 
