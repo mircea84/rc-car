@@ -20,3 +20,7 @@ http://www.airspayce.com/mikem/arduino/RadioHead/
 
 Antenna length calculator:
 http://www.csgnetwork.com/antennagenericfreqlencalc.html
+
+![Alt text](images/1111.jpeg)
+![Alt text](images/IMG-20191207-WA0008.jpeg)
+
